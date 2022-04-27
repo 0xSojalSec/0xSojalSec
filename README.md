@@ -1,8 +1,6 @@
 
 ## Hi HACKERS 👋!!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FP-2rEbWQAE-nbN?format=jpg&name=large)
-
 <<a href="https://twitter.com/0x0SojalSec">
   <img align="left" alt="Md Ismail Sojal's Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
