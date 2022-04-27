@@ -1,13 +1,13 @@
 
-## Hi HACKERS 👋!
-!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hi HACKERS 👋!!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FP-2rEbWQAE-nbN?format=jpg&name=large)
+
 <<a href="https://twitter.com/0x0SojalSec">
   <img align="left" alt="Md Ismail Sojal's Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/0xsojalsec/">
   <img align="left" alt="Md Ismail Sojal's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-[Cyber Security Researcher  |0SINT| Malware Analysis ](https://scontent.fdac56-1.fna.fbcdn.net/v/t39.30808-6/240593882_379189027068840_7600327951450029201_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeE0TMFFC1D43d-Hk5t2OC1X5K6nRqmBp5TkrqdGqYGnlEkZwRtHUHq7Wk2h8V6GDGbQOI6KDoyiIWafj-CASUB4&_nc_ohc=dUQFKTX7bG8AX_yQE1u&_nc_ht=scontent.fdac56-1.fna&oh=00_AT-DSsTxXVgMUqX5E43spc5BXmHA8Y44v9IowON9rna7VA&oe=626EEBD2)
-
 
 Skills: / JS / HTML / CSS / Python / php 
 
