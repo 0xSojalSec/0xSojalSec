@@ -1,5 +1,9 @@
 
 ## Hi HACKERS 👋!!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Welcome+to+my+home+page+%F0%9F%91%8B;I+guess+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D;Hope+there+is+something+you+need+%F0%9F%8E%81">
+</h1>  
+
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FP-2rEbWQAE-nbN?format=jpg&name=large)
 <<a href="https://twitter.com/0x0SojalSec">
   <img align="left" alt="Md Ismail Sojal's Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
