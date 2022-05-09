@@ -13,7 +13,7 @@
 
 Skills: / JS / HTML / CSS / Python / php 
 
-- 🔭 I’m currently working on private projact 
+- 🔭 I’m currently working on private project 
 - 🌱 I’m currently learning Cyber_Security 
 - 👯 I’m looking to collaborate on GITHUB TWITTER FACEBOOK 
 - 💬 Ask me about Cyber_Security 
