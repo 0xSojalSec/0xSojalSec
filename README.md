@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/0xsojalsec/">
   <img align="left" alt="Md Ismail Sojal's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
-Skills: / JS / HTML / CSS / Python / php 
+Skills: / JS 50% / HTML 50% / CSS 20% / Python 50% / php 30%
 
 - 🔭 I’m currently working on private project 
 - 🌱 I’m currently learning Cyber_Security 
