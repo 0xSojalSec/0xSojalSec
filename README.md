@@ -5,6 +5,7 @@
 </h1>  
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FP-2rEbWQAE-nbN?format=jpg&name=large)
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <<a href="https://twitter.com/0x0SojalSec">
   <img align="left" alt="Md Ismail Sojal's Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
