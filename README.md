@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/0xsojalsec/">
   <img align="left" alt="Md Ismail Sojal's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
-Skills: / JS 50% / HTML 50% / CSS 20% / Python 50% / php 30%
+Skills: / JS 20% / HTML 50% / CSS 20% / Python 20%% / php 20%
 
 - 🔭 I’m currently working on private project 
 - 🌱 I’m currently learning Cyber_Security 
@@ -30,7 +30,7 @@ Skills: / JS 50% / HTML 50% / CSS 20% / Python 50% / php 30%
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Cybersecurity Projects
+### Cybersecurity Projects Private
   
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
 [![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
