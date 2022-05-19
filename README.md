@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/0xsojalsec/">
   <img align="left" alt="Md Ismail Sojal's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
-Skills: / JS 20% / HTML 50% / CSS 20% / Python 20%% / php 20%
+Skills: / JS 20% / HTML 50% / CSS 20% / Python 20% / php 20%
 
 - 🔭 I’m currently working on private project 
 - 🌱 I’m currently learning Cyber_Security 
@@ -34,12 +34,12 @@ Skills: / JS 20% / HTML 50% / CSS 20% / Python 20%% / php 20%
 
 ### Cybersecurity Projects Private
   
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+![](https://img.shields.io/badge/-🩸%20Heartbleed-000)
+![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)
+![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)
+![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)
+![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)
+![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0xSojalSec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/0xSojalsec/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/0xSojalSec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/0xSojalSec/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/0x0SojalSec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/0xSojalSec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/0xSojalSec)  
 
