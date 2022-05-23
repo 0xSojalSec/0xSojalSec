@@ -1,5 +1,5 @@
 
-## Hi HACKERS 👋!!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hi HACKERS 👋!!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="24px">
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Welcome+to+my+home+page+%F0%9F%91%8B;I+guess+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D;Hope+there+is+something+you+need+%F0%9F%8E%81">
 </h1>  
