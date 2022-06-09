@@ -14,8 +14,18 @@
 <a href="https://www.linkedin.com/in/0xsojalsec/">
   <img align="left" alt="Md Ismail Sojal's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
-Skills: / JS 20% / HTML 50% / CSS 20% / Python 20% / php 20%
+```c
+#include <stdio.h>
+static const char WHOAMI[] = "GH0ST_3exP10it 🏴‍";
 
+int main(void) {
+    
+    char *languages[4] = { "Python3", "HTML/CSS", "JS", "C", "bash" "GO" };
+    char *techs[2] = { "💻 Web Pentesting", "🐍 Python3 Scripting", "☠️  Malware Analysis" };
+       
+    return 0;
+}
+``` 
 - 🔭 I’m currently working on private project 
 - 🌱 I’m currently learning Cyber_Security 
 - 👯 I’m looking to collaborate on GITHUB TWITTER FACEBOOK 
