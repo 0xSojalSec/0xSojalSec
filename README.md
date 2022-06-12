@@ -20,7 +20,7 @@ static const char WHOAMI[] = "GH0ST_3exP10it 🏴‍";
 
 int main(void) {
     
-    char *languages[4] = { "Python3", "HTML/CSS", "JS", "C", "bash" "GO" };
+    char *languages[7] = { "Python3", "HTML/CSS", "JS", "C", "bash" "GO" };
     char *techs[2] = { "💻 Web Pentesting", "🐍 Python3 Scripting", "☠️  Malware Analysis" };
        
     return 0;
