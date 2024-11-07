@@ -5,7 +5,7 @@
 </h1>  
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FP-2rEbWQAE-nbN?format=jpg&name=large)
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://github.com/0xSojalSec/0xSojalSec/blob/main/0_x1hYdyNabPGcEoCD.gif" 
  <p align="center"><img src="https://giffiles.alphacoders.com/119/119821.gif" alt="hacking GIF" widht="500" height="400">
     
 <<a href="https://twitter.com/0x0SojalSec">
