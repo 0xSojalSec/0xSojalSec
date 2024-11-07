@@ -8,12 +8,6 @@
 <p  align="center"><img src="https://github.com/0xSojalSec/0xSojalSec/blob/main/0_x1hYdyNabPGcEoCD.gif" 
  <p align="center"><img src="https://giffiles.alphacoders.com/119/119821.gif" alt="hacking GIF" widht="500" height="400">
     
-<<a href="https://twitter.com/0x0SojalSec">
-  <img align="left" alt="Md Ismail Sojal's Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/0xsojalsec/">
-  <img align="left" alt="Md Ismail Sojal's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-
 ```c
 #include <stdio.h>
 static const char WHOAMI[] = "GH0ST_3exP10it 🏴‍";
@@ -61,13 +55,7 @@ int main(void) {
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSojalSec&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0xSojalSec)  
-
-![GitHub metrics](https://metrics.lecoq.io/0xSojalSec)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=0xSojalSec)  
-
-![Profile views](https://gpvc.arturio.dev/0xSojalSec)  
 
 <h3 align="left">Languages and Tools:</h3>!
  # Working Experience 0.01 basic with:
