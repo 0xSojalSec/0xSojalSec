@@ -1,7 +1,7 @@
 
 ## Hi HACKERS 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="24px">
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=My+Name+is+SOJAL%F0%9F%98%80;+Welcome+to+my+home+page+%F0%9F%91%8B;I+guess+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D%F0%9F%A4%9D;Hope+there+is+something+you+need+%F0%9F%A7%90;like+Hacking+tools+Resources%F0%9F%93%93">
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=My+Name+is+SOJAL%F0%9F%98%80;+Welcome+to+my+home+page+%F0%9F%91%8B;I+guess+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D%F0%9F%A4%9D;Hope+there+is+something+you+need+%F0%9F%A7%90;like+Hacking+tools+Resources%F0%9F%93%93;Or+Ai+Resources+tools+paper+stuff%F0%9F%93%93">
 </h1>  
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FP-2rEbWQAE-nbN?format=jpg&name=large)
