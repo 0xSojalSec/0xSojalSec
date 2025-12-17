@@ -8,15 +8,35 @@
 <p  align="center"><img src="https://github.com/0xSojalSec/0xSojalSec/blob/main/0_x1hYdyNabPGcEoCD.gif" 
  <p align="center"><img src="https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif" alt="hacking GIF" widht="500" height="400">
     
+# 👨‍💻 <GH0ST_3exP10it />
+
+> Cyber Security Enthusiast | Malware Analyst | Pythonista
+
+### 🛠️ My Identity in C
+
 ```c
 #include <stdio.h>
-static const char WHOAMI[] = "GH0ST_3exP10it 🏴‍";
+
+/**
+ * @author GH0ST_3exP10it
+ * @brief  Personal Profile Stack
+ */
+
+static const char IDENTITY[] = "GH0ST_3exP10it 🏴‍☠️";
 
 int main(void) {
-    
-    char *languages[7] = { "Python3", "HTML/CSS", "JS", "C", "bash" "GO" };
-    char *techs[2] = { "💻 Web Pentesting", "🐍 Python3 Scripting", "☠️  Malware Analysis" };
-       
+    const char *languages[] = {
+        "Python3", "HTML/CSS", "JavaScript", 
+        "C", "Bash", "Go"
+    };
+
+    const char *expertise[] = {
+        "💻 Web Pentesting", 
+        "🐍 Python3 Scripting", 
+        "☠️  Malware Analysis"
+    };
+
+    printf("Executing profile for: %s\n", IDENTITY);
     return 0;
 }
 ``` 
